@@ -39,3 +39,10 @@ h2.top_title{margin:4px 20px; padding-top:15px; padding-left:20px; padding-botto
 .ad_76090,.ad_demo{width:100%; height:auto; margin:40px auto;text-align:center}
 .demo{width:98%; margin:10px auto}
 }
+.nav{width:500px;margin:10px auto;}
+    .nav li{float:left; width:100px; height:24px; line-height:24px}
+    .box{height:500px}
+    .box h3{height:32px; line-height:32px; padding-left:20px; font-size:14px}
+    #pro,#ser{background:url(img/bg.jpg)}
+    #news,#con{background:url(img/bg2.gif)}
+    .clear{clear:both}
